@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-initial-letter",
+  "version": "1.0.0",
+  "description": "Add initial letter to your text with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "initial-letter",
+    "initial-letter-tailwind"
+  ],
+  "author": "Aleksei Volkov",
+  "license": "ISC"
+}
