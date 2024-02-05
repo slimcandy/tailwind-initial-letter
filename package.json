@@ -1,0 +1,18 @@
+{
+  "name": "tailwind-font-variant-caps",
+  "version": "1.0.0",
+  "description": "Add font-variant-caps utilities to Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "font-variant-caps",
+    "font",
+    "variant caps"
+  ],
+  "author": "Aleksei Volkov",
+  "license": "ISC"
+}
