@@ -1,26 +1,17 @@
 {
-  "name": "tailwind-font-variant-caps",
+  "name": "tailwind-initial-letter",
   "version": "1.0.0",
-  "description": "Add font-variant-caps utilities to Tailwind CSS",
+  "description": "Add initial letter to your text with Tailwind CSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "tailwind",
-    "css",
-    "font-variant-caps",
-    "font",
-    "variant caps"
+    "tailwindcss",
+    "initial-letter",
+    "initial-letter-tailwind"
   ],
   "author": "Aleksei Volkov",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/slimcandy/tailwind-initial-letter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/slimcandy/tailwind-initial-letter/issues"
-  },
-  "homepage": "https://github.com/slimcandy/tailwind-initial-letter#readme"
+  "license": "ISC"
 }
